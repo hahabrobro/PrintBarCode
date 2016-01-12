@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\新增資料夾 (2)\列印條碼範例\TSCLIB.DLL-ASP.NET_in_VCsharp_2008\ASP.NET_in_VCsharp_2008\bin\ASP.NET_in_VCsharp_2008.dll.config
+C:\Users\Administrator\Downloads\新增資料夾 (2)\列印條碼範例\TSCLIB.DLL-ASP.NET_in_VCsharp_2008\ASP.NET_in_VCsharp_2008\bin\ASP.NET_in_VCsharp_2008.dll
+C:\Users\Administrator\Downloads\新增資料夾 (2)\列印條碼範例\TSCLIB.DLL-ASP.NET_in_VCsharp_2008\ASP.NET_in_VCsharp_2008\bin\ASP.NET_in_VCsharp_2008.pdb
+C:\Users\Administrator\Downloads\新增資料夾 (2)\列印條碼範例\TSCLIB.DLL-ASP.NET_in_VCsharp_2008\ASP.NET_in_VCsharp_2008\obj\Debug\ASP.NET_in_VCsharp_2008.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\新增資料夾 (2)\列印條碼範例\TSCLIB.DLL-ASP.NET_in_VCsharp_2008\ASP.NET_in_VCsharp_2008\obj\Debug\ASP.NET_in_VCsharp_2008.dll
+C:\Users\Administrator\Downloads\新增資料夾 (2)\列印條碼範例\TSCLIB.DLL-ASP.NET_in_VCsharp_2008\ASP.NET_in_VCsharp_2008\obj\Debug\ASP.NET_in_VCsharp_2008.pdb
